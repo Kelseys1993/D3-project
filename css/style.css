@@ -1,0 +1,9 @@
+body{
+	background-color: lightgrey;
+	
+}
+
+.newClass {
+	color: red;
+	text-decoration: underline;
+}
