@@ -7,3 +7,17 @@ body{
 	color: red;
 	text-decoration: underline;
 }
+#infobox{
+	float: right;
+	margin-right: 14%;
+	text-align: center;
+	padding: 10px;
+	box-sizing: border-box;
+	height: 400px;
+	width:30% ;
+	background-color: #d8f0e8;
+}
+#node-contianer {
+	float: left;
+	
+}
